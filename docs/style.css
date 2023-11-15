@@ -14,3 +14,22 @@ body {
     color: yellow;
 
 }
+
+#container{
+    display: flex;
+
+}
+
+.inp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50vw;
+    height: 10vh;
+}
+
+.label1{
+    font-size: 25px;
+    padding-right: 1%;
+    color: white;
+}
