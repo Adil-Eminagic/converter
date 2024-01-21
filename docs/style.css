@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+#innerContainer {
+    display: flex;
+    flex-direction: column;
+   
+}
+
+#rgbValue {
+    text-align: center;
+    background-color: white;
+    border: 2px solid black;
+    font-size: 20px;
+}
+
+#container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#range {
+    padding: 1%;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 20%;
+    display: flex;
+    justify-content: row;
+}
